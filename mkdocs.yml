@@ -1,4 +1,4 @@
-site_name: Build - ClearCase Base Snapshot plugin
+site_name: Build - Plug-In Index
 
 theme:
   name: material
@@ -30,11 +30,11 @@ markdown_extensions:
 nav:
   - Back to all Plug-Ins: "https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/"
   - Home: index.md
-  - Overview: overview.md
-  - Settings: settings.md
-  - Steps: steps.md
-  - Usage: usage.md
-  - History: history.md
-  - Downloads: downloads.md
+  # - Overview: overview.md
+  # - Settings: settings.md
+  # - Steps: steps.md
+  # - Usage: usage.md
+  # - History: history.md
+  # - Downloads: downloads.md
 extra:
   generator: false
