@@ -1,16 +1,17 @@
 # DevOps Build Plug-In Index
 
-## List of all Plugins
+## Contents
 
 ### AccuRev
 
 AccuRev is a tool that provides version control for source code. The AccuRev plug-in automates populating an AccuRev workspace, creating a tag, and publishing source changes to the Changes tab of the buildlife.
 
+***TRY the links if they work for this plug-in, have not changed the others till now, will work on it later***
 ---
 
 |Back to ...||AccuRev |Latest Version|
 | :---: | :---: | :---: | :---: |
-|[All Plugins](https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/)|[Top](#list-of-all-plugins)|[Readme](https://build-plugins.github.io/build-accurev/)|[6.752929](https://github.com/Build-Plugins/build-accurev/releases/download/6.752929/AccuRev-6.752929.zip)|
+|[All Plugins](https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/)|[Top](#contents)|[Readme](https://build-plugins.github.io/build-accurev/)|[6.752929](https://github.com/Build-Plugins/build-accurev/releases/download/6.752929/AccuRev-6.752929.zip)|
 
 ### AccuWork
 
